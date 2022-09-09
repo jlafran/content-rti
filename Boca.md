@@ -1,5 +1,5 @@
 ---
-title: "A brief look at hey.com stack"
+title: "Boca juniors"
 date: "2020-06-30"
 layout: post
 draft: false
@@ -17,7 +17,7 @@ Two weeks ago, Basecamp launched its own e-mail service that aims to challenge t
 <br/>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Two years of work comes alive today. Couldn’t be more proud of our team. It wasn’t easy, but it was incredibly fun. And today we get to show the world what we’ve been working on. Email’s new heyday is here. HEY: <a href="https://t.co/Qyp1WsIIly">https://t.co/Qyp1WsIIly</a></p>&mdash; Jason Fried (@jasonfried) <a href="https://twitter.com/jasonfried/status/1272533092939505664?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote>
 
-The platform, which was initially made available through invitations, generated excitement in technology enthusiasts, for bringing a different approach to the so common e-mail service: right after logging in, we came across the "Imbox" (with M, of IMportant ), an inbox that only shows pre-authorized e-mails, a separate place for newsletters and even a "paper-trail" where receipts and order confirmations will be stored.
+BOCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtations, generated excitement in technology enthusiasts, for bringing a different approach to the so common e-mail service: right after logging in, we came across the "Imbox" (with M, of IMportant ), an inbox that only shows pre-authorized e-mails, a separate place for newsletters and even a "paper-trail" where receipts and order confirmations will be stored.
 
 An interesting point to be noted by technologists: [hey.com](http://hey.com) is far from being an MVP as we have seen in other startups. The tool was developed for two years until its launch, and its initial version already offers advanced tools such as the ability to merge email threads, notifications for specific contacts, etc. In addition, the service is not free: it offers a 14-day trial version, after which an yearly fee of \$99 is charged.
 
