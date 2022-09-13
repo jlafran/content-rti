@@ -9,7 +9,7 @@ tags:
   - ruby-on-rails
   - inspiration
   - stack
-image: ![image](https://tmssl.akamaized.net/images/foto/galerie/juan-roman-riquelme-boca-juniors-2014-1575894893-28112.jpg?lm=1575894916)
+![image](https://tmssl.akamaized.net/images/foto/galerie/juan-roman-riquelme-boca-juniors-2014-1575894893-28112.jpg?lm=1575894916)
 ---
 ![alt text](https://tmssl.akamaized.net/images/foto/galerie/juan-roman-riquelme-boca-juniors-2014-1575894893-28112.jpg?lm=1575894916)
 
