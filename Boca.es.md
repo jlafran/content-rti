@@ -9,7 +9,7 @@ tags:
   - ruby-on-rails
   - inspiration
   - stack
-image: ./images/20200630.jpg
+image: ./images/fran.png
 ---
 
 Two weeks ago, Basecamp launched its own e-mail service that aims to challenge the main online e-mail platforms, called Hey (and which resides in the attractive e-mail [hey.com](hey.com)). The launch was announced on June 15, in a tweet by the company's CEO and co-founder, Jason Fried:
